@@ -378,3 +378,7 @@ Here are some more awesome resources for continuing to learn Vue:
 * [Vue Vixens on DEV](https://dev.to/vuevixens)
 * [Sarah Drasner's Vue series](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
 * [The Vue Documentation](https://vuejs.org/)
+
+## Keep in touch!
+
+
